@@ -6,7 +6,7 @@
 #### Manhattan condominiums with similar sizes, and designs are compared against one another. Each unit’s location, market value, and attributes are analyzed to estimate its potential rental income. 
 
 ## DATA DICTIONARY
-Column Name	Untis	Column Description	Type
+Column Name	Units	Column Description	Type
  Boro-Block-Lot	N/A	The Borough-Block-Lot location of the  condominium. The lot identifies the condominium billing lot generally associated with the condominium management organization.	Object
  Condominium	N/A	The  condominium is identified using a combination of a condominium number assigned by DoF followed by the condominium suffix. The condominium number is assigned by the Department of Finance for each condominium in New York City.  The condominium suffix is a partition of the condominium. A condominium may have multiple residential or commercial suffixes each of which contains individual condominium lots.	Object
  Address	N/A	The Street Address of the property	Object
@@ -42,13 +42,3 @@ Comparable 2 Address	N/A	The Street Address of the property	Object
 Comparable 2 Neighborhood	N/A	Department of Finance determines the neighborhood name in the course of valuing properties. The common name of the neighborhood is generally the same as the name Finance designates. However, there may be slight differences in neighborhood boundary lines.	Object
 Comparable 2 Building Class	N/A	The Building Class code  is used to describe a property’s use.  This report includes the two character code as well as the description of the building class.	Object
 Comparable 2 Total Units	COUNT	Total number of units in the building	Numeric
-Comparable 2 Year Built	YEAR	The year the building was built	Numeric
-Comparable 2 Gross SqFt	SQFT	Gross square footage of the building	Numeric
-Comparable 2 Estimated Gross Income	USD	Estimated Income per square foot * Gross square foot	Numeric
-Comparable 2 Gross Income per SqFt	USD/SQFT	Estimated income per square foot	Numeric
-Comparable 2 Estimated Expense	USD	Estimated Expense per square foot * Gross square foot	Numeric
-Comparable 2 Expense per SqFt	USD/SQFT	Estimated expense per square foot	Numeric
-Comparable 2 Net Operating Income	USD	Estimated Gross Income-Estimated Expense	Numeric
-Comparable 2 Full Market Value	USD	Current year’s total market value of the land and building	Numeric
-Comparable 2 Market Value per SqFt	USD	Full Market Value/ Gross SqFt	Numeric
-Comparable 2 Distance from Condo in miles	MILES	calculated distance from comparable to the 	Numeric
