@@ -58,7 +58,7 @@ In the Machine Learning section, we use a copy of the unadulterated data as a ba
 
  
 
-## BUSINESS RECOMMENDATIONS
+## INVESTOR RECOMMENDATIONS
 
 
 
