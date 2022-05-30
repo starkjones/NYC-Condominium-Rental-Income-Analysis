@@ -3,6 +3,11 @@
 #### Jonathan Jones 
 #### 22.05.25
 
+
+## DATA SUMMARY
+
+#### Manhattan condominiums with similar sizes, and designs are compared against one another. Each unit’s location, market value, and attributes are analyzed to estimate its potential rental income. 
+
 1) Source of data:
 
   https://data.cityofnewyork.us/Housing-Development/DOF-Condominium-Comparable-Rental-Income-Manhattan/ad4c-mphb
@@ -30,11 +35,6 @@
 7) What, if any, challenges do you foresee in cleaning, exploring, or modeling with this dataset?
 
  This dataset has a lot of columns, the challenge lies in determining which columns will be the most effective for predicting our target values. 
-
-
-## DATA SUMMARY
-
-#### Manhattan condominiums with similar sizes, and designs are compared against one another. Each unit’s location, market value, and attributes are analyzed to estimate its potential rental income. 
 
 ## DATA DICTIONARY
 [DOF Condominium Rental Analysis Data Dictionary.xlsx](https://github.com/starkjones/NYC-CONDOMINIUM-COMPARABLE-RENTAL-INCOME-ANALYSIS/files/8791742/DOF.Condominium.Rental.Analysis.Data.Dictionary.xlsx)
