@@ -38,6 +38,11 @@
 
 ## DATA DICTIONARY
 [DOF Condominium Rental Analysis Data Dictionary.xlsx](https://github.com/starkjones/NYC-CONDOMINIUM-COMPARABLE-RENTAL-INCOME-ANALYSIS/files/8791742/DOF.Condominium.Rental.Analysis.Data.Dictionary.xlsx)
+## OUR CLIENT & THE DESIGN BRIEF 
+![image](https://user-images.githubusercontent.com/101145586/174222656-f64b5b6a-97a5-4769-b9d5-5347b68d3d9b.png)
+
+![image](https://user-images.githubusercontent.com/101145586/174222698-044e2cbe-59b2-4feb-beee-caadb6086dcd.png)
+
 
 ## VISUAL ANALYSIS
 
@@ -55,20 +60,20 @@ Machine learning is used to streamline, expedite and enhance the forecasting pro
 In the Machine Learning section, we use a copy of the unadulterated data as a basis and instructive training tool for our models. Several different models will used with this training data to draw inferences and detail elemental relationships between features or columns so that they will be able to interact with, and perform similar analysis on testing or unseen data. 
 
 ## INSIGHTS & EVALUATION
+![image](https://user-images.githubusercontent.com/101145586/174222840-42e74da4-16c2-4702-a3c2-6ee3c2f5df65.png)
 
- 
+Our chosen model, at its best, is producing errors that are close to 200 thousand dollars. 
+We recommend employing it as an aid or guide in selecting several properties for viewing, but not as the sole fulcrum for purchasing decisions. 
 
 ## INVESTOR RECOMMENDATIONS
 
+We suggest that our client focus their time and resources on Condominiums located in the center of the island or ones that are in close proximity to the Hudson or East River. Units on the south and west of the island seem have higher market values and therefore higher potential rental income. 
 
 
 ## SUMMARY
 
-Observation:
-
-
-Proposed Solution: 
-
+The inclusion of more physical features would drastically increase the predictive power of our model. Physical characteristics like bedroom and bath counts, ceiling and window heights, exterior square foot, heating and mechanical systems, Wi-Fi and app friendly controls, exposure direction and linear feet would be great additions to our data set. 
+National and Global Considerations like CPI, Fed fund rate, market indexes, home supply, and international shipping metrics, would also be insightful. 
 
 ## REFERENCES
 #### [https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/](https://data.cityofnewyork.us/Housing-Development/DOF-Condominium-Comparable-Rental-Income-Manhattan/ad4c-mphb)
